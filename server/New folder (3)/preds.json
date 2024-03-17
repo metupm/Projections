@@ -1,0 +1,67 @@
+[
+    {
+        "Home Team":"Auburn",
+        "Home Score":"85.1",
+        "Away Team":"Florida",
+        "Away Score":"77.5",
+        "Projected Total":"162.6",
+        "Consensus Total":"155.5",
+        "Projected Spread":"7.6",
+        "Consensus Spread":"5.5",
+        "Bet Type":"over",
+        "TEV":"4.70%",
+        "SEV":"2.54%"
+    },
+    {
+        "Home Team":"Illinois",
+        "Home Score":"78.5",
+        "Away Team":"Wisconsin",
+        "Away Score":"75.4",
+        "Projected Total":"153.9",
+        "Consensus Total":"148.5",
+        "Projected Spread":"3.1",
+        "Consensus Spread":"3",
+        "Bet Type":"over",
+        "TEV":"3.92%",
+        "SEV":"0.14%"
+    },
+    {
+        "Home Team":"VCU",
+        "Home Score":"66",
+        "Away Team":"Duquesne",
+        "Away Score":"65",
+        "Projected Total":"131",
+        "Consensus Total":"131",
+        "Projected Spread":"1",
+        "Consensus Spread":"1",
+        "Bet Type":"under",
+        "TEV":"0.00%",
+        "SEV":"0.00%"
+    },
+    {
+        "Home Team":"UAB",
+        "Home Score":"75",
+        "Away Team":"Temple",
+        "Away Score":"70",
+        "Projected Total":"145",
+        "Consensus Total":"145",
+        "Projected Spread":"5",
+        "Consensus Spread":"5",
+        "Bet Type":"under",
+        "TEV":"0.00%",
+        "SEV":"0.00%"
+    },
+    {
+        "Home Team":"Yale",
+        "Home Score":"73",
+        "Away Team":"Brown",
+        "Away Score":"65",
+        "Projected Total":"138",
+        "Consensus Total":"138",
+        "Projected Spread":"8",
+        "Consensus Spread":"8",
+        "Bet Type":"under",
+        "TEV":"0.00%",
+        "SEV":"0.00%"
+    }
+]

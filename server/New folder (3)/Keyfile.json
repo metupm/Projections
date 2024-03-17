@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "sports-projections-416002",
+  "private_key_id": "b1a01890d1a6d27bcb0b61ce31f883261442e55d",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCMBR/uKZQDHGcn\n+OHgacntMlDbnNOPsikVGFvQm1t0z2fLeP9NwBK4tQ9HNpTuiyxqnN0hiJCoMtN2\nW9Qz3DQ5yCyYVUBe3rhdVqV4g8nwkENvvrt2XEiuDnFtFOu+2HM8zBYufuoP+GOZ\nKP0rVTBuOLSRnjAIPftnALUkMkxusWq/iRbgGkWfVBb7nGD4FteHxdE/9VxK5trK\n8AyMlLMN6BSkHT6d+JqeijCNMMH38o1hvmfhV+Bd9XOTPva7yLVeQpiYyB7nbxSC\ncoKAH24ho93Z4CMorded+jnwyG/sWSakh4itpI0LuMTnJBOAy6qQViOgwyiYG7qc\nxVNLlwWTAgMBAAECggEAP9qKcDMX479NL8ZpQ80aoAglJbHELTDDWXJtVJm0wHVh\nUUJRs2RXZVJ0sDYs/wgK7mew1H0R8xKSqtQ/1pKiYoNuCt4958XL8Az2kxoOup0f\nk9M4bEazgmTlxygWRkcxblVn/DY2iafty8gMhHlqB6nmds3b+7ZAcv24ndQuVP/5\nDNdfet8l55IwG2X+0vr057LgIK7nH1W5RN/5iubgGqMxcr1U8S7p8s7Fwn84LrRH\nPyG0QcEgpIX9DPzszJAY+x1Ert3k7yzraEjpMHQO9b29C5xJrb6NdSlPjnXQAqvN\nvJOZoJlgHadtM9zqTJgl/sVZcBhfnhuI8zrvjYKOiQKBgQC/IhdbzddfRv4yOPoD\n9pv0TfA5UyMO8zD1hvk3Zjnvj12M7zDm7xs5WwI2YAiVXYJaJYYCHATmke1Lm4PA\ntySnc/KDcuX2hZsCzXyaz6zcBq008bYDg6GG7VvAwVAloYN31SiRCBTd1lSXO9B2\nGR6NzfCBxQgfJSlBVp41IHJchwKBgQC7ikDyaVwIfWx73GhAnGzMVUE0XMPYVaOT\nwAjnBvvW83EdgKHTFU1OMvwdAqeU6D6FJP/YGbe4jktQZcPhl2eX/as/fI/0ldtp\n2FnTxWfKqmoF6L6Awtzrhit/8hXta4OYYc43MXRfBGZoHB4NhAZGcLQ2FQk8Fa8C\ntgdvgO09lQKBgC8VJsvmmPdPda7Jek0foqs7x8FXSXuVTKou5ZVQCVWJ63GcOl+o\n5vvp/1GFtpeUwVeThr9eR5bEu7+0P3BprQ3S8hqPYzanEthN5jP8lIhe3Kv+Huge\ntNuX/NIuzJ94efo6+BNB+mHrOktG4MM2zOABqw1MjAOgE9mUjMRpicJhAoGAF8Yq\n/ZAFrr3XpswGG0q5MB4OqgioeyBAIFbTyhXEjzdFO6w213930VX9R+AyRlo6sr5C\nAK8h7y96tLJx5oM/CrGJp/6ucR8eNYjLumDoC3UXA7DBlakeQG09znZt+S8L+6FK\ndwy55+Gy6bfGx4fZE8zty31XMlq9WOaigqwhZxECgYBr9zKjSQwjyDkAA38yYrzP\nKPA4ipoQOt4FUEKhP8VZmNSDh/25CmfprK+b2jIU4wekNyb3f+YtyOF2zuPtl+U1\nY3Xf3oTpFFSO2sAKlOE39DX2i5RG9RixlgbwB9tTBes9n2T0UCkwTur7R66C7tWN\ntgrgDbjv59tQsGn+ySP7VQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "serv-acc@sports-projections-416002.iam.gserviceaccount.com",
+  "client_id": "107214871209435655961",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/serv-acc%40sports-projections-416002.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
